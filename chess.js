@@ -509,7 +509,7 @@ function moveValidation(x , y , i , j)
 
 function getMajorPiece(value , i)
 {
-    let arr = [5 , 3 , 4 , 10 , 900, 4 , 3 , 5];
+    let arr = [5 , 3 , 4 , 10 , 9, 4 , 3 , 5];
 
     if(value < 9)
     {
