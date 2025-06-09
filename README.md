@@ -52,5 +52,5 @@ Feel free to explore the code, fork the repo, or suggest improvements. Feedback 
 
 ---
 
-> Made with 💻 and ♟️ by Yash  
+> Made with 💻 and ♟️ by Yash Suthar 
 > A first step toward building my own chess engine.
